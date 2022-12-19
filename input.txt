@@ -1,0 +1,35 @@
+library
+
+root_start 
+whole _abc #
+whole _ab #
+whole _b #
+whole _abd assign 10 #
+_ab assign 20 #
+_b assign 25 #
+_a assign 1 #
+
+_ab add_assign 10 #
+_ab minus_assign 10 #
+_ab mul_assign 10 #
+_ab div_assign 10 #
+_b div_assign 10 #
+
+_b assign L 10 R INC #
+
+fi L 0 R
+LB
+
+RB
+esle 
+LB
+
+RB
+
+loop L 1 , 5 R 
+LB  
+ _a assign 1 #
+RB
+
+$* _ab assign _b # *$
+root_end

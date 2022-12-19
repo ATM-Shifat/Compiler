@@ -1,0 +1,92 @@
+
+Header file added
+
+
+
+
+Succcessfull declaration of  _abc 
+
+
+Succcessfull declaration of  _ab 
+
+
+Succcessfull declaration of  _b 
+
+
+Succcessfull declaration with initialization of  _abd  with 10
+
+
+Assignment successfull {_ab } 20
+
+
+Assignment successfull {_b } 25
+
+
+_a  is not declared
+
+
+
+Add assignment successfull {_ab } 30
+
+
+Minus assignment successfull {_ab } 20
+
+
+Multiply assignment successfull {_ab } 200
+
+
+Assignment successfull {_ab } 20
+
+
+Assignment successfull {_b } 2
+
+
+
+Unknown Character.
+
+
+Unknown Character.
+
+
+Unknown Character.
+
+
+Assignment successfull {_b } 10
+
+
+
+
+
+
+
+
+
+
+Inside else block
+
+Inside else-if block
+
+
+
+
+
+_a  is not declared
+
+
+This is for loop
+
+This is for loop
+
+This is for loop
+
+This is for loop
+
+
+
+Start of a comment
+
+End of a  comment
+
+
+Main Function
+
